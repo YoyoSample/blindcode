@@ -41,7 +41,7 @@ A Next.js-based web application for conducting blind coding challenges, where pa
    npm install
    ```
 
-3. Create a `.env.local` file in the root directory and add your environment variables:
+3. Create a `.env.local` file in the root directory (copy from `.env.example`) and add your environment variables:
    ```
    JUDGE0_API_KEY=your_judge0_api_key_here
    ```
